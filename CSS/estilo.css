@@ -1,0 +1,21 @@
+img{
+    max-width: 100% ;
+}
+a{
+    background-color: brown;
+    color: white;
+    font-size: larger;
+}
+.foto{
+    display: flex;
+    justify-content: center;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
