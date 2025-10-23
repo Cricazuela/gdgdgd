@@ -19,3 +19,9 @@ section{
     flex-direction: column;
     justify-content: space-between;
 }
+
+
+.material-symbols-outlined {
+    color: red;
+    font-size: 150px;
+}
